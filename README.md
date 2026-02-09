@@ -12,9 +12,10 @@
 <h2> 🤳 Connect with me:</h2>
 <p><B>LINKEDIN</B>: https://www.linkedin.com/in/eric-smith-68872313/</p>
 
-<p><B>portfolio</B>: https://ourmaninboston.wixsite.com/portfolio/writing</p>
+<p><B>PORTFOLIO</B>: https://ourmaninboston.wixsite.com/portfolio/writing</p>
 
-- 🌱 I’m currently learning Cybersecurity in the Master's degree program at the University of San Diego.
+- 🌱 I’m earning a <a href="https://onlinedegrees.sandiego.edu/masters-cyber-security-operations/>Master's Degree in Cybersecurity and Leadership</a> at the University of San Diego.
+  
 - ⚡ Fun fact: I like <a href="https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9">Neuroscience</a>, <a href="https://www.youtube.com/watch?v=kqJKuk7WFVw">D&D</a>, and <a href="https://www.reverbnation.com/fiendishthingies">making music.</a>
 
 <!--
