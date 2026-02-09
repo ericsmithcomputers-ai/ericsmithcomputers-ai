@@ -1,5 +1,9 @@
 <h1>Welcome! I'm Eric.<br/><a href="https://github.com/ericsmithcomputers-ai">Support Engineer</a>, <a href="https://www.linkedin.com/in/eric-smith-68872313/">Cybersecurity Professional</a>, <a href="https://ourmaninboston.wixsite.com/portfolio/writing">Writer and Designer</a></h1>
 
+- 🌱 I’m earning a <a href="https://onlinedegrees.sandiego.edu/masters-cyber-security-operations/">Master's Degree in Cybersecurity and Leadership at the University of San Diego</a>.
+  
+- ⚡ Fun fact: I like <a href="https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9">Neuroscience</a>, <a href="https://www.youtube.com/watch?v=kqJKuk7WFVw">D&D</a>, and <a href="https://www.reverbnation.com/fiendishthingies">making music.</a>
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -14,9 +18,7 @@
 
 <p><B>PORTFOLIO</B>: https://ourmaninboston.wixsite.com/portfolio/writing</p>
 
-- 🌱 I’m earning a <a href="https://onlinedegrees.sandiego.edu/masters-cyber-security-operations/">Master's Degree in Cybersecurity and Leadership at the University of San Diego</a>.
-  
-- ⚡ Fun fact: I like <a href="https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9">Neuroscience</a>, <a href="https://www.youtube.com/watch?v=kqJKuk7WFVw">D&D</a>, and <a href="https://www.reverbnation.com/fiendishthingies">making music.</a>
+
 
 <!--
 Here are some ideas to get you started:
