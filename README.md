@@ -4,15 +4,6 @@
   
 - ⚡ Fun fact: I like <a href="https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9">Neuroscience</a>, <a href="https://www.youtube.com/watch?v=kqJKuk7WFVw">D&D</a>, and <a href="https://www.reverbnation.com/fiendishthingies">making music.</a>
 
-<h2>👨‍💻 Software Development Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-
 <h2> 🤳 Connect with me:</h2>
 <p><B>LINKEDIN</B>: https://www.linkedin.com/in/eric-smith-68872313/</p>
 
