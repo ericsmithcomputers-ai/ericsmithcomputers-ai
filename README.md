@@ -10,7 +10,7 @@
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 <h2> 🤳 Connect with me:</h2>
-- [linkedin]: https://www.linkedin.com/in/eric-smith-68872313/
+<p></p>- [linkedin]: https://www.linkedin.com/in/eric-smith-68872313/</p>
 
 - [portfolio]: https://ourmaninboston.wixsite.com/portfolio/writing
 
