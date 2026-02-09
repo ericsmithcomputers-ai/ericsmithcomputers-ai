@@ -14,7 +14,7 @@
 
 <p><B>PORTFOLIO</B>: https://ourmaninboston.wixsite.com/portfolio/writing</p>
 
-- 🌱 I’m earning a <a href="https://onlinedegrees.sandiego.edu/masters-cyber-security-operations/">Master's Degree in Cybersecurity and Leadership</a> at the University of San Diego.
+- 🌱 I’m earning a <a href="https://onlinedegrees.sandiego.edu/masters-cyber-security-operations/">Master's Degree in Cybersecurity and Leadership at the University of San Diego</a>.
   
 - ⚡ Fun fact: I like <a href="https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9">Neuroscience</a>, <a href="https://www.youtube.com/watch?v=kqJKuk7WFVw">D&D</a>, and <a href="https://www.reverbnation.com/fiendishthingies">making music.</a>
 
