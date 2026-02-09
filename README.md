@@ -11,6 +11,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 - [linkedin]: https://www.linkedin.com/in/eric-smith-68872313/
+
 - [portfolio]: https://ourmaninboston.wixsite.com/portfolio/writing
 
 - 🌱 I’m currently learning Cybersecurity in the Master's degree program at the University of San Diego.
