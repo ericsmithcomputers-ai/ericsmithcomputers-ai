@@ -14,7 +14,7 @@
 [portfolio]: https://ourmaninboston.wixsite.com/portfolio/writing
 
 - 🌱 I’m currently learning Cybersecurity in the Master's degree program at the University of San Diego.
-- ⚡ Fun fact: I like <a haref=https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9>Neuroscience</a>, <href=https://www.youtube.com/watch?v=kqJKuk7WFVw>D&D</a>, and <href=https://www.reverbnation.com/fiendishthingies>making music.</a>
+- ⚡ Fun fact: I like <a href="https://ourmaninboston.wixsite.com/portfolio/writing?lightbox=i91qn9">Neuroscience</a>, <href="https://www.youtube.com/watch?v=kqJKuk7WFVw">D&D</a>, and <"href=https://www.reverbnation.com/fiendishthingies">making music.</a>
 
 <!--
 Here are some ideas to get you started:
